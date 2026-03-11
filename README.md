@@ -16,6 +16,7 @@
 - HLSL（ポストエフェクト）
 - FSM（有限状態マシン）
 - Ray / Sphere / AABB 判定
+- エフェクシア
 - Visual Studio 2022
 
 ## フォルダ構成
