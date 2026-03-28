@@ -20,6 +20,7 @@
 - Visual Studio 2022
 
 ## フォルダ構成
+- Shader：HLSLのソースコード
 - Source : ソースコード
 - Resource : 画像・音声などのリソース(容量が大きいため下記URLのGoogleDriveに置いてあります)
 - .sln / .vcxproj : Visual Studio プロジェクト
